@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--💬 Want to know more about me? <br/>
 -->
 
-I am Arbeena Khanum from Bangalore, India. I am Aspiring Android Developer :woman_technologist:
+I am Arbeena Khanum from Bangalore, India. I am Aspiring Android Developer. :woman_technologist:
 
 📫 How to reach me? <br/>
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/arbeena-khanum-4ab21217a/)**
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/arbeena-khanum-4ab21217a/)**.
 
+💬 Want to know more about me? <br/>
+You can check here **[Resume](https://github.com/ArbeenaKhanum/ArbeenaKhanum/blob/main/Arbeena%20Khanum%20Resume.pdf)**.
