@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am Arbeena Khanum from Bangalore, India. I am Aspiring Android Developer. :woman_technologist:
 
+<img src="https://designscreations.in/images/career1.gif" height="400px"/>
+
 📫 How to reach me? <br/>
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/arbeena-khanum-4ab21217a/)**.
 
