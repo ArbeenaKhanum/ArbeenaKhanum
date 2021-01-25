@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Arbeena Khanum from Bangalore, India. I am Aspiring Android Developer. :woman_technologist:
+I am Arbeena Khanum from Bangalore, India. I am an aspiring Android Developer. :woman_technologist:
 
-<img src="https://designscreations.in/images/career1.gif" height="375px"/>
+<img src="https://designscreations.in/images/career1.gif" height="400px"/>
 
 ### Tech & Tools
 
