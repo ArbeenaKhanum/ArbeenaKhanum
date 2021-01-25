@@ -21,4 +21,4 @@ I am Arbeena Khanum from Bangalore, India. I am Aspiring Android Developer. :wom
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/arbeena-khanum-4ab21217a/)**.
 
 💬 Want to know more about me? <br/>
-You can check here **[Resume](https://github.com/ArbeenaKhanum/ArbeenaKhanum/blob/main/Arbeena%20Khanum%20Resume.pdf)**.
+You can check my **[Resume](https://github.com/ArbeenaKhanum/ArbeenaKhanum/blob/main/Arbeena%20Khanum%20Resume.pdf)**.
