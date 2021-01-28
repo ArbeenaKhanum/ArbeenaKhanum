@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/arbeena-khanum-4ab21217a/)**.
 
 #### 💬 Want to know more about me? <br/>
-You can find my work on my **[Resume](https://drive.google.com/file/d/1FuhfPEFisNbezziJlQovGVs4U2cbHBld/view)**.
+You can find my work on my **[Resume](https://drive.google.com/file/d/1hlpniKF7H8JJfXO1YqAKT3NyHC6EmqZr/view?usp=sharing)**.
