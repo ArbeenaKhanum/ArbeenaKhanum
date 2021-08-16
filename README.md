@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### I am Arbeena Khanum from Bangalore, India. I am an aspiring Android Developer. :woman_technologist:
-###### I am highly passionate and enthusiastic about creating android applications with pixel perfect UI.
+##### I am Arbeena Khanum from Bangalore, India. I am Mobile App Developer. :woman_technologist:
+###### I am highly passionate and enthusiastic about creating applications with pixel perfect UI.
 
 <img src="Images/career_gif.gif" height="450px"/>
 
