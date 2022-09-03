@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### I am Arbeena Khanum from Bangalore, India. I am Mobile App Developer. :woman_technologist:
+##### I am Mobile App Developer. :woman_technologist:
 ###### I am highly passionate and enthusiastic about creating applications with pixel perfect UI.
 
 ![](https://komarev.com/ghpvc/?username=ArbeenaKhanum&color=blueviolet)
