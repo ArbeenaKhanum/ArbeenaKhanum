@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 #### 📫 How to reach me? <br/>
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/arbeena-khanum-4ab21217a/)**.
 
+<!--
 #### 💬 Want to know more about me? <br/>
 You can find my work on my **[Resume](https://drive.google.com/file/d/1zF-rP-k3WYRAcn-AwCHGFuXLWjac_OMn/view?usp=sharing)**.
+-->
