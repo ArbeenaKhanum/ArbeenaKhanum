@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 <!--
 **ArbeenaKhanum/ArbeenaKhanum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### I am Mobile App Developer. :woman_technologist:
-###### I am highly passionate and enthusiastic about creating mobile applications with pixel perfect UI.
+##### I am Mobile Apps Developer. :woman_technologist:
+###### I am highly passionate and enthusiastic about creating mobile applications.
 
 ![](https://komarev.com/ghpvc/?username=ArbeenaKhanum&color=blueviolet)
 
